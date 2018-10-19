@@ -1,0 +1,14 @@
+{
+  "name": "sdn-prototype",
+  "version": "0.0.1",
+  "description": "This package simulates the work of the SDN-technology for transferring data packets over a network of routers",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "n.machendos@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^3.0.5"
+  }
+}
